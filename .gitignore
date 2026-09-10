@@ -1,0 +1,5 @@
+# NUNCA versionar o banco: ele guarda o conteúdo das mensagens.
+*.db
+*.db-shm
+*.db-wal
+*.log
